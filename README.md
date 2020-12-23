@@ -14,6 +14,8 @@ Desde la consola/terminal/línea de comandos
 
 Abra una instancia del navegador en http://localhost:3000/mascotas
 
+Abra una instancia del navegador en http://localhost:3000/admin
+
 ## Frontend
 
 Desde la consola/terminal/línea de comandos
