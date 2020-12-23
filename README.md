@@ -17,4 +17,4 @@ Abra una instancia del navegador en http://localhost:3000/mascotas
 cd mascotas/frontend
 npm install
 ng serve
-Abra una instancia del navegador en http://localhost:4000/
+Abra una instancia del navegador en http://localhost:4200/
